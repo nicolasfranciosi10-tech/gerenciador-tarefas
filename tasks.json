@@ -5,5 +5,12 @@
     "responsavel": "Meu Amigo",
     "concluida": false,
     "criada_em": "28/03/2026 14:43"
+  },
+  {
+    "id": 1774719810619,
+    "descricao": "limpar cozinha",
+    "responsavel": "Eu",
+    "concluida": false,
+    "criada_em": "28/03/2026 14:43"
   }
 ]
