@@ -11,7 +11,7 @@ GITHUB_TOKEN = st.secrets["GITHUB_TOKEN"]
 REPO_NAME    = st.secrets["REPO_NAME"]      # ex: "seu-usuario/gerenciador-tarefas"
 FILE_PATH    = "tasks.json"
 
-PESSOAS = ["Eu", "Meu Amigo"]
+PESSOAS = ["Franciosi", "A Mãe Tá On"]
 
 # ─────────────────────────────────────────────
 # FUNÇÕES DE PERSISTÊNCIA (lê/salva no GitHub)
