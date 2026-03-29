@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1774800758255,
+    "descricao": "Limpar um banheiro",
+    "responsavel": "Franciosi",
+    "concluida": false,
+    "criada_em": "29/03/2026 16:12"
+  }
+]
