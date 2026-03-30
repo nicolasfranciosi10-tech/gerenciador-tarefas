@@ -50,7 +50,7 @@ def save_tasks(tasks):
 # INTERFACE
 # ─────────────────────────────────────────────
 st.set_page_config(page_title="Tarefas Compartilhadas", page_icon="✅", layout="centered")
-st.title("✅ Gerenciador de Tarefas")
+st.title(" Gerenciador de Tarefas")
 st.caption("Compartilhado entre duas pessoas — atualiza em tempo real.")
 
 # Carrega tarefas
